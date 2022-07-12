@@ -1,9 +1,11 @@
 # IoT_proyecto
 Proyecto para presentar en el Iot de Samsung
-###Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
+```javascript
+{
+    imageUpload       : true,
+    imageFormats      : ["jpg", "jpeg", "gif", "png", "bmp", "webp"],
+    imageUploadURL    : "http://xxxxxxx/editor.md/examples/php/cross-domain-upload.php?test=dfdf",
+    crossDomainUpload : true,
+    uploadCallbackURL : "http://xxxxxx/upload_callback.html?test=dfdf"
+}
+```
