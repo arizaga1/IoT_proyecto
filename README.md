@@ -3,7 +3,13 @@
 **Índice**
 
 [TOCM]
+
 [TOC]
+
+#H1 header
+##H2 header
+###H3 header
+
 ## Introducción
 ## Diagrama a bloques del sistema
 ![Sistema de seguridad IoT](https://github.com/arizaga1/IoT_proyecto/blob/main/Untitled%20Diagram.drawio.png "Sistema de seguridad IoT")
